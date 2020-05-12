@@ -1,2 +1,3 @@
-# the-ghristian-gallery
-A collection of the most beautiful art
+# The Christian Gallery
+
+A collection of the most beautiful art.
