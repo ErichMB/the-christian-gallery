@@ -1,0 +1,45 @@
+/* Styling the "Home" and "About" internal links */
+
+.links {
+	white-space: nowrap;
+}
+
+a {
+	display: inline-block;
+	list-style: none;
+	text-decoration: none;
+	font-weight: bold;
+	padding-bottom: 1em;
+}
+
+a:link {
+	color: yellow;
+}
+
+a:visited {
+	color: yellow;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:active {
+	color: yellow;
+}
+
+.home {
+	position: absolute;
+	margin-left: 25%;
+}
+
+.about {
+	position: absolute;
+	margin-left: 67.5%;
+}
+
+/* Name, Artist and Year info */
+
+.lastsupper-info {
+	padding-top: 1em;
+}
