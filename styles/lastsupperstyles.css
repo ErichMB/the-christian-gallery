@@ -10,8 +10,9 @@ a {
 	text-decoration: none;
 	font-weight: bold;
 	font-size: 18px;
-	padding-bottom: 1em;
 	padding-top: 1.3em;
+	padding-left: 95px;
+	padding-right: 95px;
 }
 
 a:link {
@@ -28,16 +29,6 @@ a:hover {
 
 a:active {
 	color: yellow;
-}
-
-.home {
-	position: relative;
-	margin-left: .2%;
-}
-
-.about {
-	position: relative;
-	margin-left: 13%;
 }
 
 /* Name, Artist and Year info */
