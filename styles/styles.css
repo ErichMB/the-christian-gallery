@@ -1,0 +1,17 @@
+/* Title and header */
+
+h1 {
+	color: yellow;
+}
+
+.header {
+	letter-spacing: 2.5px;
+	word-spacing: 7.5px;
+	color: white;
+}
+
+/* background color */
+
+html {
+	background-color: black;
+}

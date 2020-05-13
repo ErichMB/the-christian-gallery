@@ -9,6 +9,7 @@ a {
 	list-style: none;
 	text-decoration: none;
 	font-weight: bold;
+	font-size: 18px;
 	padding-bottom: 1em;
 }
 
@@ -41,5 +42,43 @@ a:active {
 /* Name, Artist and Year info */
 
 .lastsupper-info {
-	padding-top: 1em;
+	padding-top: 4.5em;
+	color: white;
+	font-size: 16px;
+	font-family: "Georgia", serif;
+}
+
+.name {
+	padding-bottom: 10px;
+}
+
+.artist {
+	padding-bottom: 10px;
+}
+
+.year {
+	padding-bottom: 10px;
+}
+
+/* Image */
+
+.lastsupper-image {
+	padding-top: 2.5em;
+}
+
+/* Decription of art */
+
+.lastsupper-description {
+	color: white;
+	line-height: 25px;
+	font-family: "Georgia", serif;
+	font-size: 16px;
+	padding-top: 2.5em;
+}
+
+/* Footer */
+
+footer {
+	color: yellow;
+	padding-top: 2.5em;
 }
