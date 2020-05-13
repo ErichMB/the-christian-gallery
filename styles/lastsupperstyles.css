@@ -11,6 +11,7 @@ a {
 	font-weight: bold;
 	font-size: 18px;
 	padding-bottom: 1em;
+	padding-top: 1.3em;
 }
 
 a:link {
@@ -30,13 +31,13 @@ a:active {
 }
 
 .home {
-	position: absolute;
-	margin-left: 25%;
+	position: relative;
+	margin-left: .2%;
 }
 
 .about {
-	position: absolute;
-	margin-left: 67.5%;
+	position: relative;
+	margin-left: 13%;
 }
 
 /* Name, Artist and Year info */
