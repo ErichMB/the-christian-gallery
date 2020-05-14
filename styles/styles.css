@@ -92,3 +92,9 @@ footer {
 	color: yellow;
 	padding-top: 2.5em;
 }
+
+/* Changes source on song of the angels page */
+
+.source {
+	font-size: 12px;
+}
