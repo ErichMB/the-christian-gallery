@@ -16,3 +16,21 @@ h3 {
 	color: white;
 	padding-top: 1.5em;
 }
+
+/* Audio controls */
+
+figcaption {
+	color: yellow;
+	padding-top: 2em;
+	padding-bottom: 1em;
+}
+
+audio {
+	border: 1px solid yellow;
+}
+
+/* Image */
+
+.img {
+	padding-top: 2em;
+}
