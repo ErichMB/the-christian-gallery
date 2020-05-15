@@ -29,8 +29,10 @@ a {
 	font-weight: bold;
 	font-size: 18px;
 	padding-top: 1.3em;
-	padding-left: 95px;
-	padding-right: 95px;
+}
+
+.home {
+	margin-right: 20%;
 }
 
 a:link {
